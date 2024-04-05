@@ -1,6 +1,4 @@
-# Video2blogpost: Using Claude 3 Opus to transform a video tutorial in a blog post
-
-[<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/video2blogpost/blob/main/Video2BlogPost.ipynb)
+# VLOGTOBLOG: Using Claude 3 Opus to transform a video into something readable
 
 This repository provides a a couple of examples to reproduce [Yann-Ael's solution](https://x.com/ya_lb/status/1773382982583111856) to [Karpathy's challenge](https://twitter.com/karpathy/status/1760740503614836917) of converting a video tutorial in a blog post. 
 
